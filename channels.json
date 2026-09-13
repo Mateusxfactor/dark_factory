@@ -1,0 +1,101 @@
+{
+    "minuto_bizarro":  {
+                           "name":  "Minuto Bizarro",
+                           "voice":  "pt-BR-AntonioNeural",
+                           "voice_rate":  "+5%",
+                           "sub_color":  "\u0026H000000FF",
+                           "style_prompt":  "hyperrealistic extreme macro photography of bizarre biological anomaly, dark eerie scientific documentary aesthetic, high detail textures, cinematic atmospheric lighting, 8k render, no humans",
+                           "system_directive":  "Roteiro tenso e intrigante sobre bizarrices biológicas reais, parasitas bizarros, anomalias marinhas ou mistérios científicos documentados. NUNCA use clichês como \u0027você sabia\u0027. Abra com um gancho visceral direto nos primeiros 2 segundos. Explique a biologia ou a ciência real por trás do fato. Finalize com um fechamento perturbador e memorável.",
+                           "token_file":  "tokens/token_minuto_bizarro.json",
+                           "topics":  [
+                                          "O Fungo Cordyceps e o Controle Zumbi no Reino Animal",
+                                          "O Parasita Cymothoa Exigua que Substitui a Lingua do Peixe",
+                                          "A Ilha das Cobras Queimada Grande e o Veneno Mais Rapido do Mundo",
+                                          "O Tubarao da Groenlandia que Vive Mais de 400 Anos no Gelo",
+                                          "A Anomalia das Profundezas do Peixe Olhos de Barril Transparente"
+                                      ],
+                           "default_tags":  [
+                                                "biologia",
+                                                "curiosidades",
+                                                "fatosbizarros",
+                                                "ciencia",
+                                                "natureza",
+                                                "shorts"
+                                            ],
+                           "tiktok_profile":  "tokens/tiktok_profile_minutobizarro"
+                       },
+    "quant_paradox":  {
+                          "name":  "Paradoxos \u0026 Loterias",
+                          "voice":  "pt-BR-AntonioNeural",
+                          "voice_rate":  "+4%",
+                          "sub_color":  "\u0026H0000FFFF",
+                          "style_prompt":  "dark cinematic room with massive glowing metallic vault, neon gold mathematical formulas floating, high contrast dramatic lighting, 8k render, no humans",
+                          "system_directive":  "Roteiro investigativo e frio sobre probabilidade, falhas matemáticas históricas em sorteios, o paradoxo de Monty Hall e o viés cognitivo de apostadores. Comece quebrando uma certeza matemática logo na primeira frase.",
+                          "token_file":  "tokens/token_quant_paradox.json",
+                          "topics":  [
+                                         "A Falha Matematica da Loteria de Massachusetts e o Cash WinFall",
+                                         "O Paradoxo de Monty Hall e o Erro Humano das Probabilidades",
+                                         "O Economista Stefan Mandel que Ganhou 14 Vezes na Loteria",
+                                         "A Falacia do Apostador: Por que a Roleta nao tem Memoria",
+                                         "O Criterio de Kelly e o Tamanho Exato de uma Aposta Racional"
+                                     ],
+                          "default_tags":  [
+                                               "matematica",
+                                               "probabilidade",
+                                               "loterias",
+                                               "curiosidades",
+                                               "shorts"
+                                           ]
+                      },
+    "web3_tech":  {
+                      "name":  "Web3 \u0026 Teoria dos Sorteios",
+                      "voice":  "pt-BR-AntonioNeural",
+                      "voice_rate":  "+3%",
+                      "sub_color":  "\u0026H0000FF00",
+                      "style_prompt":  "futuristic dark cyberspace, glowing cryptographic hash holograms, decentralized blockchain nodes, matrix clean cyber aesthetics, 8k octane render, no humans",
+                      "system_directive":  "Roteiro estritamente tecnológico e educacional. Explique como a aleatoriedade criptográfica (VRF) e contratos inteligentes descentralizados superam a opacidade de sistemas de sorteios tradicionais. Foco em matemática da confiança e código auditável.",
+                      "token_file":  "tokens/token_web3_tech.json",
+                      "topics":  [
+                                     "Como Provar Matematicamente que um Sorteio nao Foi Manipulado",
+                                     "O Que e VRF: A Aleatoriedade Criptografica Verificavel",
+                                     "Smart Contracts vs Loterias Tradicionais: O Fim da Caixa Preta",
+                                     "A Teoria dos Jogos e a Matematica dos Sorteios Sem Vantagem da Banca"
+                                 ],
+                      "default_tags":  [
+                                           "web3",
+                                           "blockchain",
+                                           "smartcontracts",
+                                           "criptografia",
+                                           "tecnologia",
+                                           "shorts"
+                                       ]
+                  },
+    "insight_de_ouro":  {
+                            "name":  "Insight de Ouro",
+                            "handle":  "@insightdeouro",
+                            "voice":  "pt-BR-AntonioNeural",
+                            "voice_rate":  "+0%",
+                            "sub_color":  "\u0026H0000D7FF",
+                            "style_prompt":  "cinematic chiaroscuro, dramatic lighting, antique marble statue of roman philosopher, dark moody museum atmospheric, subtle glowing gold cracks, photorealistic, 8k, no modern items",
+                            "system_directive":  "Roteiro estritamente focado em estoicismo prático, maturidade emocional, disciplina e mentalidade financeira/intelectual. Abra com uma verdade incômoda sobre fraqueza humana ou ilusão de controle nos primeiros 3 segundos. Aplique ensinamentos de pensadores como Marco Aurélio, Sêneca ou Epicteto de forma moderna. Finalize com uma reflexão provocativa e sem clichês motivacionais baratos.",
+                            "token_file":  "tokens/token_insight_de_ouro.json",
+                            "tiktok_profile":  "tokens/tiktok_profile_insightdeouro",
+                            "topics":  [
+                                           "A Ilusao do Controle: Por que Voce Sofre pelo que Nao Pode Mudar",
+                                           "A Regra de Ouro de Marco Aurelio Contra Pessoas Toxicas",
+                                           "Memento Mori: A Frieza Matematica da Finitude do Tempo",
+                                           "Por que a Motivacao e uma Mentira e a Disciplina e a Unica Saida",
+                                           "O Custo Invisivel de Tentar Agradar a Todo Mundo",
+                                           "Amor Fati: Como Usar o Pior Acontecimento da Sua Vida a Seu Favor"
+                                       ],
+                            "default_tags":  [
+                                                 "estoicismo",
+                                                 "desenvolvimentopessoal",
+                                                 "disciplina",
+                                                 "filosofia",
+                                                 "mentalidade",
+                                                 "shorts"
+                                             ],
+                            "upload_youtube":  false
+                        }
+}
